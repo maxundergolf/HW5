@@ -1,3 +1,5 @@
+#max sritragul
+
 class BankAccount
 	
 	def initialize(money)
